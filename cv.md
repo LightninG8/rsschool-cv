@@ -1,9 +1,9 @@
 # Aleksey Kessler
 
 ### Contacts:
-**VK:** [https://vk.com/lesha_kessler](https://vk.com/lesha_kessler)
-**email**: [tov.kessler@yandex.ru](tov.kessler@yandex.ru)
-**GitHub**: [https://github.com/LightninG8/](https://github.com/LightninG8/)
+* **VK:** [https://vk.com/lesha_kessler](https://vk.com/lesha_kessler)
+* **email**: [tov.kessler@yandex.ru](tov.kessler@yandex.ru)
+* **GitHub**: [https://github.com/LightninG8/](https://github.com/LightninG8/)
 ### Short information:
 I always strive for self-improvement. My main goal is to become a web development professional. I like programming. I can quickly learn new things, put into practice what I have previously learned, and start doing work long before the deadline. Also I can play three musical incstruments :). I worked for six months as a content manager in an online furniture store, developed a demo application in React.js for a project on online fitting of things, refined other people's websites, work a Junior frontend-developer in "ar-rocket" studio.
 
