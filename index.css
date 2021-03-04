@@ -112,6 +112,7 @@ html {
 
   color: #7b7d7f;
 }
+/* Wrapper of main information in .details__main */
 .details__info {
   margin-top: 40px;
 }
