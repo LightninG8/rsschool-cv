@@ -16,14 +16,19 @@ html {
   font-size: 1.6rem;
   color: #fff;
 }
+.img {
+  max-width: 100%;
+  width: 100%;
 
+}
 .container {
   max-width: 1160px;
   width: 100%;
   margin: 0 auto;
 }
 
-.cv__short-info {
+/* Short description */
+.cv__briefly {
   padding: 25px;
 
   background-color: #00181c;
@@ -31,39 +36,46 @@ html {
 
 .cv__img {
   max-width: 350px;
-  width: 100%;
 
   background-color: #fdfffd;
   border-radius: 50%;
   border: 5px solid #fdfffd;
 }
 
-.short-info__title {
+.briefly__title {
   font-size: 2.6rem;
   letter-spacing: 0.5rem;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-.short-info__info {
-  margin-top: 40px;
+.briefly__info {
+  margin-top: 25px;
 }
 
-.short-info__list {
-  margin-top: 20px;
+.briefly__list {
+  margin-top: 10px;
 
   list-style: none;
 }
 
-.short-info__item {
+.briefly__item {
   margin-top: 8px;
 }
 
-.short-info__link {
+.briefly__link {
   color: #fff;
 }
+.cv__skills > .briefly__list {
+  list-style: disc;
+}
+.cv__skills .briefly__item {
+  margin-left: 20px;
+}
 
-.cv__full-info {
+/* Long details */
+
+.cv__details {
   background-color: #fdfffd;
 }
 
@@ -94,15 +106,16 @@ html {
   margin-top: 25px;
 }
 
-.full-info__main {
+/* Wrapper of main information in .details */
+.details__main {
   padding-left: 50px;
 
   color: #7b7d7f;
 }
-.full-info__info {
+.details__info {
   margin-top: 40px;
 }
-.full-info__title {
+.details__title {
   padding: 10px 30px;
 
   text-transform: uppercase;
@@ -115,22 +128,39 @@ html {
   border-bottom-left-radius: calc(49px / 2);
   background-color: #1b7c82;
 }
-.full-info__group {
+.details__group {
   padding-left: 30px;
   padding-right: 30px;
   margin-top: 18px;
 }
-.full-info__subtitle {
+.details__subtitle {
   font-size: 1.8rem;
   color: #3aa8a5;
 }
 
-.full-info__list {
+.details__list {
   padding-lefT: 20px;
 }
 .full-ifnfo__item {
   margin-top: 5px;
 }
-.full-info__link {
+.details__link {
   color: #7b7d7f;
+}
+
+.cv__footer {
+  padding-top: 10px;
+}
+
+/* footer in .briefly */
+.footer__icon {
+  max-width: 40px;
+  margin-right: 10px;
+}
+.footer__link {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+
+  color: #fff;
 }
