@@ -15,6 +15,7 @@ I always strive for self-improvement. My main goal is to become a web developmen
 * React.js + Redux
 * Webpack
 * Git
+* Basic Web-design and web-usability
 
 ### Code example:
 * Fetch data service
